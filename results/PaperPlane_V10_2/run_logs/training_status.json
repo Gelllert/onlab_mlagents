@@ -1,0 +1,47 @@
+{
+    "PaperPlane": {
+        "checkpoints": [
+            {
+                "steps": 499938,
+                "file_path": "results\\PaperPlane_V10_2\\PaperPlane\\PaperPlane-499938.onnx",
+                "reward": -222.72457880047168,
+                "creation_time": 1779741866.2921858,
+                "auxillary_file_paths": [
+                    "results\\PaperPlane_V10_2\\PaperPlane\\PaperPlane-499938.pt"
+                ]
+            },
+            {
+                "steps": 999804,
+                "file_path": "results\\PaperPlane_V10_2\\PaperPlane\\PaperPlane-999804.onnx",
+                "reward": -160.37306241520116,
+                "creation_time": 1779742297.2318394,
+                "auxillary_file_paths": [
+                    "results\\PaperPlane_V10_2\\PaperPlane\\PaperPlane-999804.pt"
+                ]
+            },
+            {
+                "steps": 1024215,
+                "file_path": "results\\PaperPlane_V10_2\\PaperPlane\\PaperPlane-1024215.onnx",
+                "reward": null,
+                "creation_time": 1779742387.832869,
+                "auxillary_file_paths": [
+                    "results\\PaperPlane_V10_2\\PaperPlane\\PaperPlane-1024215.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1024215,
+            "file_path": "results\\PaperPlane_V10_2\\PaperPlane.onnx",
+            "reward": null,
+            "creation_time": 1779742387.832869,
+            "auxillary_file_paths": [
+                "results\\PaperPlane_V10_2\\PaperPlane\\PaperPlane-1024215.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.2.0.dev0",
+        "torch_version": "2.2.2+cpu"
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "PaperPlane": {
+        "checkpoints": [
+            {
+                "steps": 6999900,
+                "file_path": "results\\EditorTest_02_routes\\PaperPlane\\PaperPlane-6999900.onnx",
+                "reward": -0.9079342708742667,
+                "creation_time": 1779152234.7055628,
+                "auxillary_file_paths": [
+                    "results\\EditorTest_02_routes\\PaperPlane\\PaperPlane-6999900.pt"
+                ]
+            },
+            {
+                "steps": 7499940,
+                "file_path": "results\\EditorTest_02_routes\\PaperPlane\\PaperPlane-7499940.onnx",
+                "reward": -0.7352368829922321,
+                "creation_time": 1779152708.1280112,
+                "auxillary_file_paths": [
+                    "results\\EditorTest_02_routes\\PaperPlane\\PaperPlane-7499940.pt"
+                ]
+            },
+            {
+                "steps": 7999980,
+                "file_path": "results\\EditorTest_02_routes\\PaperPlane\\PaperPlane-7999980.onnx",
+                "reward": -0.9086887844439063,
+                "creation_time": 1779153237.9611363,
+                "auxillary_file_paths": [
+                    "results\\EditorTest_02_routes\\PaperPlane\\PaperPlane-7999980.pt"
+                ]
+            },
+            {
+                "steps": 8499920,
+                "file_path": "results\\EditorTest_02_routes\\PaperPlane\\PaperPlane-8499920.onnx",
+                "reward": -0.6038232130001322,
+                "creation_time": 1779153709.5926864,
+                "auxillary_file_paths": [
+                    "results\\EditorTest_02_routes\\PaperPlane\\PaperPlane-8499920.pt"
+                ]
+            },
+            {
+                "steps": 8999924,
+                "file_path": "results\\EditorTest_02_routes\\PaperPlane\\PaperPlane-8999924.onnx",
+                "reward": -0.5898515798134578,
+                "creation_time": 1779154181.2921116,
+                "auxillary_file_paths": [
+                    "results\\EditorTest_02_routes\\PaperPlane\\PaperPlane-8999924.pt"
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.2.0.dev0",
+        "torch_version": "2.2.2+cpu"
+    }
+}

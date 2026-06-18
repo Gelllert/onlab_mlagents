@@ -1,0 +1,29 @@
+{
+    "PaperPlane": {
+        "checkpoints": [
+            {
+                "steps": 474324,
+                "file_path": "Assets/networks\\EditorTest_01_routes\\PaperPlane\\PaperPlane-474324.onnx",
+                "reward": 3.16892108821602,
+                "creation_time": 1779142824.2080724,
+                "auxillary_file_paths": [
+                    "Assets/networks\\EditorTest_01_routes\\PaperPlane\\PaperPlane-474324.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 474324,
+            "file_path": "Assets/networks\\EditorTest_01_routes\\PaperPlane.onnx",
+            "reward": 3.16892108821602,
+            "creation_time": 1779142824.2080724,
+            "auxillary_file_paths": [
+                "Assets/networks\\EditorTest_01_routes\\PaperPlane\\PaperPlane-474324.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.2.0.dev0",
+        "torch_version": "2.2.2+cpu"
+    }
+}

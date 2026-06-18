@@ -1,0 +1,56 @@
+{
+    "PaperPlane": {
+        "checkpoints": [
+            {
+                "steps": 499938,
+                "file_path": "results\\PaperPlane_EditorTest\\PaperPlane\\PaperPlane-499938.onnx",
+                "reward": 0.4525739045606719,
+                "creation_time": 1778368149.0046003,
+                "auxillary_file_paths": [
+                    "results\\PaperPlane_EditorTest\\PaperPlane\\PaperPlane-499938.pt"
+                ]
+            },
+            {
+                "steps": 999984,
+                "file_path": "results\\PaperPlane_EditorTest\\PaperPlane\\PaperPlane-999984.onnx",
+                "reward": 1.3365864918194712,
+                "creation_time": 1778368945.473658,
+                "auxillary_file_paths": [
+                    "results\\PaperPlane_EditorTest\\PaperPlane\\PaperPlane-999984.pt"
+                ]
+            },
+            {
+                "steps": 1499959,
+                "file_path": "results\\PaperPlane_EditorTest\\PaperPlane\\PaperPlane-1499959.onnx",
+                "reward": 2.6976797537257275,
+                "creation_time": 1778369745.7603004,
+                "auxillary_file_paths": [
+                    "results\\PaperPlane_EditorTest\\PaperPlane\\PaperPlane-1499959.pt"
+                ]
+            },
+            {
+                "steps": 1600633,
+                "file_path": "results\\PaperPlane_EditorTest\\PaperPlane\\PaperPlane-1600633.onnx",
+                "reward": null,
+                "creation_time": 1778370031.1389418,
+                "auxillary_file_paths": [
+                    "results\\PaperPlane_EditorTest\\PaperPlane\\PaperPlane-1600633.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1600633,
+            "file_path": "results\\PaperPlane_EditorTest\\PaperPlane.onnx",
+            "reward": null,
+            "creation_time": 1778370031.1389418,
+            "auxillary_file_paths": [
+                "results\\PaperPlane_EditorTest\\PaperPlane\\PaperPlane-1600633.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.2.0.dev0",
+        "torch_version": "2.2.2+cpu"
+    }
+}

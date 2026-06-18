@@ -1,0 +1,65 @@
+{
+    "PaperPlane": {
+        "checkpoints": [
+            {
+                "steps": 5499872,
+                "file_path": "results\\PaperPlane_V14_10\\PaperPlane\\PaperPlane-5499872.onnx",
+                "reward": 1.0089920935305683,
+                "creation_time": 1780009880.8500388,
+                "auxillary_file_paths": [
+                    "results\\PaperPlane_V14_10\\PaperPlane\\PaperPlane-5499872.pt"
+                ]
+            },
+            {
+                "steps": 5999867,
+                "file_path": "results\\PaperPlane_V14_10\\PaperPlane\\PaperPlane-5999867.onnx",
+                "reward": 0.5323273120447993,
+                "creation_time": 1780010298.2413301,
+                "auxillary_file_paths": [
+                    "results\\PaperPlane_V14_10\\PaperPlane\\PaperPlane-5999867.pt"
+                ]
+            },
+            {
+                "steps": 6499818,
+                "file_path": "results\\PaperPlane_V14_10\\PaperPlane\\PaperPlane-6499818.onnx",
+                "reward": 0.5899942578345471,
+                "creation_time": 1780010860.2280815,
+                "auxillary_file_paths": [
+                    "results\\PaperPlane_V14_10\\PaperPlane\\PaperPlane-6499818.pt"
+                ]
+            },
+            {
+                "steps": 6999885,
+                "file_path": "results\\PaperPlane_V14_10\\PaperPlane\\PaperPlane-6999885.onnx",
+                "reward": 0.5460975098696517,
+                "creation_time": 1780011411.702129,
+                "auxillary_file_paths": [
+                    "results\\PaperPlane_V14_10\\PaperPlane\\PaperPlane-6999885.pt"
+                ]
+            },
+            {
+                "steps": 7390668,
+                "file_path": "results\\PaperPlane_V14_10\\PaperPlane\\PaperPlane-7390668.onnx",
+                "reward": null,
+                "creation_time": 1780011872.5999386,
+                "auxillary_file_paths": [
+                    "results\\PaperPlane_V14_10\\PaperPlane\\PaperPlane-7390668.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 7390668,
+            "file_path": "results\\PaperPlane_V14_10\\PaperPlane.onnx",
+            "reward": null,
+            "creation_time": 1780011872.5999386,
+            "auxillary_file_paths": [
+                "results\\PaperPlane_V14_10\\PaperPlane\\PaperPlane-7390668.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.2.0.dev0",
+        "torch_version": "2.2.2+cpu"
+    }
+}

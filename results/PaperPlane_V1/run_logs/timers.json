@@ -1,0 +1,42 @@
+{
+    "name": "root",
+    "metadata": {
+        "timer_format_version": "0.1.0",
+        "start_time_seconds": "1779117100",
+        "python_version": "3.10.12 | packaged by Anaconda, Inc. | (main, Jul  5 2023, 19:01:18) [MSC v.1916 64 bit (AMD64)]",
+        "command_line_arguments": "C:\\Users\\gelle\\anaconda3\\envs\\mlagents\\Scripts\\mlagents-learn config/plane.yaml --env=Builds/PlaneEnv/test1.exe --num-envs=4 --run-id=PaperPlane_V1 --no-graphics",
+        "mlagents_version": "1.2.0.dev0",
+        "mlagents_envs_version": "1.2.0.dev0",
+        "communication_protocol_version": "1.5.0",
+        "pytorch_version": "2.2.2+cpu",
+        "numpy_version": "1.23.5",
+        "end_time_seconds": "1779117108"
+    },
+    "total": 8.23042819998227,
+    "count": 1,
+    "self": 1.6859549999935552,
+    "children": {
+        "run_training.setup": {
+            "total": 0.28838230000110343,
+            "count": 1,
+            "self": 0.28838230000110343
+        },
+        "TrainerController.start_learning": {
+            "total": 6.256090899987612,
+            "count": 1,
+            "self": 9.859999408945441e-05,
+            "children": {
+                "TrainerController._reset_env": {
+                    "total": 6.25597589998506,
+                    "count": 1,
+                    "self": 6.25597589998506
+                },
+                "TrainerController._save_models": {
+                    "total": 1.6400008462369442e-05,
+                    "count": 1,
+                    "self": 1.6400008462369442e-05
+                }
+            }
+        }
+    }
+}
